@@ -5,7 +5,7 @@
 
 I'm a passionate developer who loves to create and learn new things. I'm currently traveling in Japan to learn Japanese.
 
-- 🔭 I'm currently working on the project [BDLOB-demonstration](https://github.com/cka09191/BDLOB-demonstration) which visualizes my model I implemented ([BDLOB-implementation][https://github.com/cka09191/BDLOB-Implementation]) from the paper [BDLOB: Bayesian deep convolutional neural networks for limit order books by Zhang, Z. et al. (2018)](https://arxiv.org/abs/1811.10041)
+- 🔭 I'm currently working on the project [BDLOB-demonstration](https://github.com/cka09191/BDLOB-demonstration) which visualizes my model I implemented ([BDLOB-implementation](https://github.com/cka09191/BDLOB-Implementation)) from the paper [BDLOB: Bayesian deep convolutional neural networks for limit order books by Zhang, Z. et al. (2018)](https://arxiv.org/abs/1811.10041)
 - 🌱 I'm currently learning web development and deeplearning
 - 👯 I'm open to collaborating on interesting projects
 - 💬 Feel free to ask me anything
