@@ -32,13 +32,6 @@ I'm a passionate developer who loves to create and learn new things. I'm current
   <img src="https://github-readme-stats.vercel.app/api?username=cka09191&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/cka09191/BDLOB-Implementation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cka09191&repo=BDLOB-Implementation&theme=radical" />
-  </a>
-</div>
 
 ## 🤝 Connect with Me
 
