@@ -9,7 +9,7 @@ I'm a passionate developer who loves to create and learn new things. I'm current
 - 🌱 I'm currently learning web development and deeplearning
 - 👯 I'm open to collaborating on interesting projects
 - 💬 Feel free to ask me anything
-- 📫 How to reach me: cka09191@gmail.com
+- 📫 cka09191@gmail.com
 
 ## 🛠️ Technologies & Tools
 
